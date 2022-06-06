@@ -31,6 +31,10 @@ We've decided to use LÖVE2D as the game engine (or library), since LUA is a rea
 
 
 # Useful resources
-## [LÖVE2D Website](https://love2d.org/)
-## [LÖVE2D Wiki](https://love2d.org/wiki/Main_Page)
-## [Programming in LUA](https://www.lua.org/pil/contents.html)
+[LÖVE2D Website](https://love2d.org/)
+
+[LÖVE2D Wiki](https://love2d.org/wiki/Main_Page)
+
+[Programming in LUA](https://www.lua.org/pil/contents.html)
+
+[Online Code Editor](https://github.dev/Luminighty/one-commit-pokemon) (Or you can just press the `.` key on this page. [More info](https://github.com/github/dev))
