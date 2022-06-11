@@ -1,3 +1,5 @@
+class = require "libs.middleclass"
+
 local background
 
 function love.load(args)

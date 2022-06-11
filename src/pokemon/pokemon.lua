@@ -1,8 +1,5 @@
-Pokemon = {
-	name = "",
-	moves = {},
-	stats = {},
-	type = {},
-	shiny = false,
-	status = nil,
-}
+Pokemon = class("Pokemon")
+
+function Pokemon:initialize(args)
+	self.name = args.name
+end
